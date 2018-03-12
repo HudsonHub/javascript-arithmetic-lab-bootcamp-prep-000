@@ -40,5 +40,8 @@ function inc(n) {
    return Number;
  }
  
- function preserveDecimal
+ function preserveDecimal(n) {
+   var Number;
+   
+ };
 
