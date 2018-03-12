@@ -35,7 +35,8 @@ function inc(n) {
  }
  var Number
  function makeInt(n) {
-   Number = n.toString();
+   Number = parseInt(n, 10);
+   
    return Number;
  }
 
